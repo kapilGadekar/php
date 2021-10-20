@@ -7,7 +7,7 @@
 <?php
 echo "Hello World! from GIT";
 echo "Hello from version 3.1 ";
-  echo "Revision Version1 FOR NOKIA V222 ";
+  echo "FOR KUCL DEMO KUCL IS HOT CAKE !!! ";
   
 ?>
 
